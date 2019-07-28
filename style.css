@@ -1,16 +1,12 @@
-.topbar {
-    background-color: #aaaaaa;
-    font-size: 20;
-}
-.topbar a {
-    margin: 
-}
 p {
     font-size:25;
 }
-.main-pillar{
+.centerized {
     text-align: center;
 }
-.face{
-    width: 30%;
+.face {
+    width: inherit
+}
+.bottom-space {
+    height: 30px
 }
